@@ -15,6 +15,6 @@ public class PERemastered implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("hi");
 	}
 }
