@@ -2,6 +2,9 @@ package net.timeline.likepe;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.timeline.likepe.block.ModBlocks;
+import net.timeline.likepe.item.ModItemGroups;
+import net.timeline.likepe.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -15,6 +18,10 @@ public class PERemastered implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("hi");
+
+		ModItemGroups.registerItemGroups();
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
+
 	}
 }

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "likepe:block/nether_reactor_core"
+    }
+  }
+}
