@@ -2,5 +2,10 @@
 
   "itemgroup.pe": "Pocket Edition Remastered",
 
-  "block.likepe.nether_reactor_core": "Nether Reactor Core"
+  "block.likepe.nether_reactor_core": "Nether Reactor Core",
+  "block.likepe.dead_nether_reactor_core": "Dead Nether Reactor Core",
+  "block.likepe.glowing_obsidian": "Glowing Obsidian",
+
+
+  "block.likepe.cyan_rose": "Cyan Rose"
 }

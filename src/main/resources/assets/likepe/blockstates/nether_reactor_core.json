@@ -1,7 +1,10 @@
 {
   "variants": {
-    "": {
-      "model": "likepe:block/nether_reactor_core"
+    "active=true": {
+      "model": "likepe:block/reactor_core_stage_1"
+    },
+    "active=false": {
+      "model": "likepe:block/reactor_core_stage_0"
     }
   }
 }

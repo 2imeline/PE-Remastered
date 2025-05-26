@@ -16,8 +16,10 @@ public class PERemastered implements ModInitializer {
 	// That way, it's clear which mod wrote info, warnings, and errors.
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
+
 	@Override
 	public void onInitialize() {
+
 
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();

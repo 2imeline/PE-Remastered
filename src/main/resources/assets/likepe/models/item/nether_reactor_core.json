@@ -1,3 +1,3 @@
-{
-  "parent": "likepe:block/nether_reactor_core"
-}
+  {
+    "parent": "likepe:block/reactor_core_stage_0"
+  }

@@ -1,6 +1,8 @@
 {
   "replace": "false",
   "values": [
-    "likepe:nether_reactor_core"
+    "likepe:nether_reactor_core",
+    "likepe:glowing_obsidian",
+    "likepe:dead_nether_reactor_core"
   ]
 }

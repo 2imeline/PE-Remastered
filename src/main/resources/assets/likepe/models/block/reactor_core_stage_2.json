@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "likepe:block/reactor_core_stage_2"
+  }
+}
